@@ -1,0 +1,7 @@
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\bin\Debug\Syntactical analyzer.exe.config
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\bin\Debug\Syntactical analyzer.exe
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\bin\Debug\Syntactical analyzer.pdb
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\obj\Debug\Syntactical analyzer.csprojResolveAssemblyReference.cache
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\obj\Debug\Syntactical analyzer.csproj.CoreCompileInputs.cache
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\obj\Debug\Syntactical analyzer.exe
+E:\My documents\ОС\Syntactical analyzer\Syntactical analyzer\obj\Debug\Syntactical analyzer.pdb

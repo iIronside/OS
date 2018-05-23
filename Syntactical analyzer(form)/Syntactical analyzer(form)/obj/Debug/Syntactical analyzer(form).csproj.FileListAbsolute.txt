@@ -1,0 +1,10 @@
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical analyzer(form).csprojResolveAssemblyReference.cache
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical_analyzer_form_.Form1.resources
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical_analyzer_form_.Properties.Resources.resources
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical analyzer(form).csproj.GenerateResource.Cache
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical analyzer(form).csproj.CoreCompileInputs.cache
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\bin\Debug\Syntactical analyzer(form).exe.config
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\bin\Debug\Syntactical analyzer(form).exe
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\bin\Debug\Syntactical analyzer(form).pdb
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical analyzer(form).exe
+E:\My documents\ОС\Syntactical analyzer(form)\Syntactical analyzer(form)\obj\Debug\Syntactical analyzer(form).pdb

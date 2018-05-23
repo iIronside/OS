@@ -1,0 +1,32 @@
+
+trr          db   0ah
+ten db 0
+hun      dw 100
+ohun db 101
+thous dw         0ff6h
+
+str   db 95ah 
+mul thous 
+mul hun
+mul bx
+
+
+
+
+
+mul cx
+mul ax
+pop      dx
+pop      ds
+pop hun
+mov ax, 100000000
+
+
+
+mov thous,ax
+mov      al,thous
+mov       ax,hun
+mov      thous,101
+mov      hun,ax
+mov ds,hun
+      mov bl             ,   ten

@@ -1,0 +1,7 @@
+E:\My documents\ОС\Сompiler\Сompiler\bin\Debug\Сompiler.exe.config
+E:\My documents\ОС\Сompiler\Сompiler\bin\Debug\Сompiler.exe
+E:\My documents\ОС\Сompiler\Сompiler\bin\Debug\Сompiler.pdb
+E:\My documents\ОС\Сompiler\Сompiler\obj\Debug\Сompiler.csprojResolveAssemblyReference.cache
+E:\My documents\ОС\Сompiler\Сompiler\obj\Debug\Сompiler.csproj.CoreCompileInputs.cache
+E:\My documents\ОС\Сompiler\Сompiler\obj\Debug\Сompiler.exe
+E:\My documents\ОС\Сompiler\Сompiler\obj\Debug\Сompiler.pdb
